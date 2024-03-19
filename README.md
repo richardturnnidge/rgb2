@@ -1,4 +1,5 @@
-A command line program to convert RGBA888 image files into RGBA222 files
+A command line program to convert RGBA888 image files into RGBA222 files.
+
 Usage: rgb2 [filename]
 
 Output: filename.RGB2
