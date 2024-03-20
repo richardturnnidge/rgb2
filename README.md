@@ -13,3 +13,10 @@ Intended for use on Mac, but may work on other platforms.
 Copy program to /usr/local/bin
 with:
 sudo cp rgb2 /usr/local/bin
+
+
+Also included here is an Agon version (rgb2.bin). It only does one file at a time.
+
+rgb2 [filename]
+
+Make sure you place it in your MOS folder.
